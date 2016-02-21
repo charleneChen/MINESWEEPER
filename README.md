@@ -18,9 +18,12 @@ __For example__,
 
 ## How to Run
 cd lib/
+
 ruby minesweeper.rb
 
 ## How to Test
 cd spec/
+
 rspec square_spec.rb
+
 rspec mineboard_spec.rb
